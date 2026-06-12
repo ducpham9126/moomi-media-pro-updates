@@ -4,16 +4,16 @@
         <title>Moomi Media Pro</title>
         <item>
             <title>1.0.02</title>
-            <pubDate>Fri, 12 Jun 2026 16:23:07 +0700</pubDate>
+            <pubDate>Fri, 12 Jun 2026 17:24:29 +0700</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.02</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v2/Moomi_Media_Pro_v2.zip" length="2056814" type="application/octet-stream" sparkle:edSignature="nkM/tNddbRIsQXkmPv/Zwrkax56RCgCDHp7HtQAQwKNoPUn0Nx2WcEohGPmfjz4JcGgjmVtlThQSUfloD647Bg=="/>
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v2/Moomi_Media_Pro_v2.zip" length="2053801" type="application/octet-stream" sparkle:edSignature="6GEMEVnJN+mKep1vrjsVbRaCxG2nDugNaMjivH1WeVNC5pDQRh8zlel6RWewgWANryZ7gtztMAKp7V277m7UBw=="/>
         <description><![CDATA[
-- Hiển thị ghi chú cập nhật lấy trực tiếp từ GitHub Release.
-- Sửa luồng cập nhật để không hiện trùng nhiều bảng.
-- Khi bấm cập nhật, Moomi dùng Sparkle tải, xác minh, cài và mở lại an toàn hơn.
+- Tự động cập Nhật Bản mới
+- Lấy danh sách File từ ảnh chụp, hỗ trợ viết tay
+- Khi lọc File theo danh sách, thư mục KhachChon nằm cùng vị trí thư mục gốc
 
         ]]></description>
         </item>
