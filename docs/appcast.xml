@@ -3,13 +3,13 @@
     <channel>
         <title>Moomi Media Pro</title>
         <item>
-            <title>1.0.31</title>
-            <pubDate>Fri, 12 Jun 2026 13:58:24 +0700</pubDate>
-            <sparkle:version>100</sparkle:version>
-            <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
+            <title>1.0.02</title>
+            <pubDate>Fri, 12 Jun 2026 14:43:56 +0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.02</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v100/Moomi_Media_Pro_v100.zip" length="2010132" type="application/octet-stream" sparkle:edSignature="KTAInH9Uqxt7Htu66Mv9VoUHeroFscQj0Kj5FQHgok8="/>
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v2/Moomi_Media_Pro_v2.zip" length="2015449" type="application/octet-stream" sparkle:edSignature="IqTnchvUGze7WUguPKaplp8OkwCObJ7/pFoLSsAw6VYYRyIXRcb32FPz1A7Oq+a4dErC1ld/n87NzdtiZUeZCA=="/>
         </item>
     </channel>
 </rss>
