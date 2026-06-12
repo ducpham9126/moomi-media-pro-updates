@@ -4,12 +4,17 @@
         <title>Moomi Media Pro</title>
         <item>
             <title>1.0.02</title>
-            <pubDate>Fri, 12 Jun 2026 14:43:56 +0700</pubDate>
+            <pubDate>Fri, 12 Jun 2026 16:13:09 +0700</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.02</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v2/Moomi_Media_Pro_v2.zip" length="2015449" type="application/octet-stream" sparkle:edSignature="IqTnchvUGze7WUguPKaplp8OkwCObJ7/pFoLSsAw6VYYRyIXRcb32FPz1A7Oq+a4dErC1ld/n87NzdtiZUeZCA=="/>
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v2/Moomi_Media_Pro_v2.zip" length="2056814" type="application/octet-stream" sparkle:edSignature="sO5cRjYK+qD8S39Ghwg0PDR0LDB2VTg1CB0oLlWq3W+ua7ZuLoK7wQ4z3Q1OgoRrGgdeTzh9jpr6wOqbORvgDA=="/>
+        <description><![CDATA[
+- Hiển thị ghi chú cập nhật lấy trực tiếp từ GitHub Release.
+- Sửa luồng cập nhật để không hiện trùng nhiều bảng.
+- Khi bấm cập nhật, Moomi dùng Sparkle tải, xác minh, cài và mở lại an toàn hơn.
+
+        ]]></description>
         </item>
     </channel>
-</rss>
