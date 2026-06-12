@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Moomi Media Pro Updates</title>
-    <link>https://ducpham9126.github.io/moomi-media-pro-updates/appcast.xml</link>
-    <description>Moomi Media Pro update feed</description>
-  </channel>
-</rss>
