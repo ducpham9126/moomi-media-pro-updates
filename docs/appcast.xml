@@ -4,11 +4,11 @@
         <title>Moomi Media Pro</title>
         <item>
             <title>1.0.02</title>
-            <pubDate>Sat, 13 Jun 2026 15:33:49 +0700</pubDate>
+            <pubDate>Sun, 14 Jun 2026 14:18:41 +0700</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.02</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v2/Moomi_Media_Pro_v2.zip" length="3224721" type="application/octet-stream" sparkle:edSignature="yXmBNSckAjpBLJyQBTvzZIZld7H0FnlJTvFZGbVUwduri1i+LiMG0AJ81ju1BQS3whL6t7pkYDWIROoJp6utCQ=="/>
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v2/Moomi_Media_Pro_v2.zip" length="3230075" type="application/octet-stream" sparkle:edSignature="Aveerab2UdAuFY9vL+smggy5yorq8P49Uejy6+iIpTO7nB9t5wahraqMZ44fny+1Op2sePBz+Cf7PskYa97iCA=="/>
         <description><![CDATA[
 - Hiển thị ghi chú cập nhật lấy trực tiếp từ GitHub Release.
 - Sửa luồng cập nhật để không hiện trùng nhiều bảng.
