@@ -1,80 +1,30 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Moomi Media Pro</title>
         <item>
-            <title>1.3.3</title>
-            <pubDate>Tue, 27 Oct 2026 19:37:16 +0700</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+            <title>1.0.0</title>
+            <pubDate>Tue, 27 Oct 2026 20:14:14 +0700</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v10/Moomi_Media_Pro_v10.zip" length="5527880" type="application/octet-stream" sparkle:edSignature="rf7Yi8Rk9iovkBXUT6XnzO0/6zqQoM5KtdYXAgbVGmLoQ7j3wkYXQInv6MTOyijwVJ1129SBXuTzdqthcuINAg=="/>
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v1.0.0/Moomi_Media_Pro_v1.0.0.zip" length="5509865" type="application/octet-stream" sparkle:edSignature="xgjOvyODrwSmJ7lc5qPGKH2igwNTngNmiMEfghKvZN19gWxCRzlyTit09Q4pAZLuvC8ljLFMC329C5Mkg1MPBA=="/>
         <description><![CDATA[
-Moomi Media Pro 1.3.3 build 10
+Moomi Media Pro 1.0.0 — Bản đầu tiên
 
-- Logo góc trái và icon ứng dụng dùng đúng nhân vật cầm máy ảnh.
-- Ảnh nhân vật bế em bé chỉ xuất hiện trong bảng cập nhật.
-- Tách riêng hai ảnh và tối ưu bản hiển thị, giữ nền trong suốt; icon tạo từ ảnh gốc để rõ nét.
-- Sửa nền của trang Nén ảnh che mép kính và bóng ở cạnh phải thanh menu.
-- Giữ nguyên lề, vị trí và chiều rộng nội dung; chuyển trang không còn làm thay đổi viền cột trái.
-- Căn hai icon góc phải với khoảng cách tới mép trên và mép phải bằng nhau.
-- Giữ hàng đợi nén khi chuyển trang; luồng cập nhật và Release notes hoạt động như bản 1.3.2.
+- Lọc danh sách, phân loại file, giải nén ZIP, tải từ cloud và nén ảnh trong một cửa sổ làm việc.
+- Giao diện theo màu Moomi, hỗ trợ sáng/tối/theo thiết bị; kéo thả file hoặc thư mục và cuộn riêng từng vùng.
+- Logo và icon ứng dụng dùng nhân vật cầm máy ảnh; nhân vật bế em bé chỉ dùng trong bảng cập nhật. Ảnh giao diện được tối ưu dung lượng.
+- Hai nút phía trên có khoảng đệm cân đối; viền sidebar không bị nền trang Nén ảnh che.
+- Bản quyền dùng một popup xuyên suốt, thay nội dung theo từng bước. Chiều cao theo nội dung, dùng chung tiêu đề và hàng nút; nội dung dài cuộn riêng.
+- Bấm icon cập nhật để kiểm tra và xem Release notes ngay trong một bảng.
+- Mỗi popup chỉ giữ một nút Đóng; bỏ thao tác quay lại trùng lặp và giữ đúng lựa chọn cài sau khi đóng bảng cập nhật.
 
-Universal cho Mac chip M và Intel, yêu cầu macOS 13 trở lên.
-Dùng cùng khóa và nguồn cập nhật với bản 1.3.1/1.3.2 phát hành trên GitHub. Các bản dùng nguồn cập nhật cũ cần cài thủ công một lần.
+Đây là bản đầu tiên đang hoàn thiện theo phản hồi; chỉ tăng phiên bản tiếp theo khi đã chốt.
+Universal cho Mac chip M và Intel, yêu cầu macOS 13 trở lên. App hiện ký ad-hoc, chưa notarize.
+Các bản dùng khóa ký cũ cần cài thủ công một lần để chuyển sang nguồn cập nhật mới.
 
         ]]></description>
-        </item>
-        <item>
-            <title>1.3.2</title>
-            <pubDate>Tue, 27 Oct 2026 16:51:03 +0700</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v9/Moomi_Media_Pro_v9.zip" length="5371778" type="application/octet-stream" sparkle:edSignature="4WHBrgiO4KyrilRkiQEj7SA6e6S4fTxrEe7nMsnTa+YLh7bwBQSGFgVYtlfO6zTLlkBH3PrT2Rsr3vyZN6atDw==" />
-        <description>
-Moomi Media Pro 1.3.2 build 9
-
-- Sửa lỗi cuộn Release notes và nội dung popup bị cột phía dưới bắt mất thao tác cuộn.
-- Nén ảnh tích hợp trong cửa sổ chính; nằm ngay dưới Tải từ cloud.
-- Logo và icon app dùng mascot Moomi mới; tối ưu ảnh để giảm dung lượng app. Chữ MEDIA PRO ngang bằng moomi.
-- Nút chọn sáng/tối/theo thiết bị, cách khớp tên và bộ lọc lớn, dễ bấm hơn; hiệu ứng kính nhẹ.
-- Loại file hiển thị hai cột; ẩn thanh cuộn, giữ cuộn chuột và trackpad.
-- Menu thông tin gọn và tự đóng khi bấm ngoài.
-- Bấm icon cập nhật để tự kiểm tra và xem kết quả trong một bảng duy nhất. Khi có bản mới, bảng hiển thị Release notes từ GitHub; nội dung dài cuộn riêng và nút hành động luôn nhìn thấy.
-- Popup dùng nền rõ ràng; tăng khoảng đệm bảng bản quyền, sửa con trỏ nút Đóng và khóa tương tác lớp dưới.
-
-Yêu cầu: macOS 13 trở lên; Universal cho Mac chip M và Intel.
-
-Lưu ý chuyển sang nguồn cập nhật mới:
-Người dùng 1.3.1 có thể cập nhật trong ứng dụng. Người dùng các bản trước 1.3.1 cần tải và cài thủ công bản này một lần. Sau đó, các bản tiếp theo được kiểm tra và cập nhật trong ứng dụng. Cách cài: thoát hẳn Moomi bằng Command + Q, giải nén ZIP, rồi chép Moomi Media Pro.app vào Applications để thay bản cũ. Giữ nguyên thư mục ảnh gốc và dữ liệu bản quyền.
-
-        </description>
-        </item>
-    <item>
-            <title>1.3.1</title>
-            <pubDate>Tue, 27 Oct 2026 16:28:17 +0700</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v8/Moomi_Media_Pro_v8.zip" length="5370887" type="application/octet-stream" sparkle:edSignature="mqvVq7qf4uUOiHnaUrh7kWK1lhlTF8DVPXo4vBbzQoexne4EoDMmp2eI/OdXIwjrfwVHJIYfLp3EYn5a49WxAw==" />
-        <description>
-Moomi Media Pro 1.3.1 build 8
-
-- Nén ảnh tích hợp trong cửa sổ chính; nằm ngay dưới Tải từ cloud.
-- Logo và icon app dùng mascot Moomi mới; tối ưu ảnh để giảm dung lượng app. Chữ MEDIA PRO ngang bằng moomi.
-- Nút chọn sáng/tối/theo thiết bị, cách khớp tên và bộ lọc lớn, dễ bấm hơn; hiệu ứng kính nhẹ.
-- Loại file hiển thị hai cột; ẩn thanh cuộn, giữ cuộn chuột và trackpad.
-- Menu thông tin gọn và tự đóng khi bấm ngoài.
-- Bấm icon cập nhật để tự kiểm tra và xem kết quả trong một bảng duy nhất. Khi có bản mới, bảng hiển thị Release notes từ GitHub; nội dung dài cuộn riêng và nút hành động luôn nhìn thấy.
-- Popup dùng nền rõ ràng; tăng khoảng đệm bảng bản quyền, sửa con trỏ nút Đóng và khóa tương tác lớp dưới.
-
-Yêu cầu: macOS 13 trở lên; Universal cho Mac chip M và Intel.
-
-Lưu ý chuyển sang nguồn cập nhật mới:
-Người dùng các bản trước 1.3.1 cần tải và cài thủ công bản này một lần. Sau đó, các bản tiếp theo được kiểm tra và cập nhật trong ứng dụng. Cách cài: thoát hẳn Moomi bằng Command + Q, giải nén ZIP, rồi chép Moomi Media Pro.app vào Applications để thay bản cũ. Giữ nguyên thư mục ảnh gốc và dữ liệu bản quyền.
-
-        </description>
         </item>
     </channel>
 </rss>
