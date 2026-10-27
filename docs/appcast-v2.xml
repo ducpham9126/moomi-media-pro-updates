@@ -1,15 +1,38 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Moomi Media Pro</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 28 Oct 2026 06:25:35 +0700</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v1.0.1/Moomi_Media_Pro_v1.0.1.zip" length="6208192" type="application/octet-stream" sparkle:edSignature="4FMJlnFQt7ikhrwQDHCMWbHtoQoNW6v+BLQrNoAXDeX+lMYllnVYqUv27nkBy0fzyCZP+SVkTxFdLJkVb6BCBA==" />
+            <description>Moomi Media Pro 1.0.1 — Studio &amp; Album Drive
+
+- Thêm Album Drive trong menu Studio: tạo/sửa album từ thư mục Google Drive bằng giao diện riêng của app.
+- Thẻ album hiển thị đủ số ảnh/thư mục, khách đã chọn, ảnh đã chọn, ghi chú và trạng thái hoàn thành.
+- Giữ các tùy chọn mật khẩu, quyền tải ảnh/RAW/video, giới hạn chọn, ảnh bìa, bố cục và phân trang.
+- Tích hợp Lịch nội bộ và Moomi Lucky; đăng nhập bằng tài khoản Moomi và hiển thị chức năng theo quyền xem/chỉnh sửa.
+- Giao diện Studio được đóng gói trong app; chỉ trao đổi dữ liệu với plugin, không nhúng trang quản trị WordPress.
+- Tối ưu cache theo tài khoản, yêu cầu có điều kiện và tái sử dụng dữ liệu; danh sách Album không gọi Google Drive để dựng từng trang.
+- Đồng bộ kích thước ô nhập/ô chọn, hàng nút, menu tài khoản, popup và giới hạn lớp blur theo góc bo; bổ sung Hướng dẫn Studio.
+- Giữ các công cụ lọc file, phân loại, giải nén ZIP, tải từ cloud và nén ảnh.
+
+Yêu cầu macOS 13 trở lên. Universal cho Apple Silicon và Intel. App ký ad-hoc, chưa notarize.
+Menu Studio cần đăng nhập và có quyền tương ứng trên Moomi. Ảnh giữ trên Google Drive; plugin xử lý đồng bộ nền khi tạo/đổi nguồn hoặc yêu cầu đồng bộ.
+Các bản 1.0.0 dùng khóa cập nhật hiện tại có thể cập nhật qua app. Bản rất cũ dùng khóa ký trước đó cần cài thủ công một lần.
+</description>
+        </item>
         <item>
             <title>1.0.0</title>
             <pubDate>Tue, 27 Oct 2026 20:14:14 +0700</pubDate>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v1.0.0/Moomi_Media_Pro_v1.0.0.zip" length="5509865" type="application/octet-stream" sparkle:edSignature="xgjOvyODrwSmJ7lc5qPGKH2igwNTngNmiMEfghKvZN19gWxCRzlyTit09Q4pAZLuvC8ljLFMC329C5Mkg1MPBA=="/>
-        <description><![CDATA[
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v1.0.0/Moomi_Media_Pro_v1.0.0.zip" length="5509865" type="application/octet-stream" sparkle:edSignature="xgjOvyODrwSmJ7lc5qPGKH2igwNTngNmiMEfghKvZN19gWxCRzlyTit09Q4pAZLuvC8ljLFMC329C5Mkg1MPBA==" />
+            <description>
 Moomi Media Pro 1.0.0 — Bản đầu tiên
 
 - Lọc danh sách, phân loại file, giải nén ZIP, tải từ cloud và nén ảnh trong một cửa sổ làm việc.
@@ -24,7 +47,7 @@ Moomi Media Pro 1.0.0 — Bản đầu tiên
 Universal cho Mac chip M và Intel, yêu cầu macOS 13 trở lên. App hiện ký ad-hoc, chưa notarize.
 Các bản dùng khóa ký cũ cần cài thủ công một lần để chuyển sang nguồn cập nhật mới.
 
-        ]]></description>
+        </description>
         </item>
     </channel>
 </rss>
