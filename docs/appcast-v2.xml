@@ -1,15 +1,41 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Moomi Media Pro</title>
         <item>
+            <title>1.3.2</title>
+            <pubDate>Tue, 27 Oct 2026 16:51:03 +0700</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v9/Moomi_Media_Pro_v9.zip" length="5371778" type="application/octet-stream" sparkle:edSignature="4WHBrgiO4KyrilRkiQEj7SA6e6S4fTxrEe7nMsnTa+YLh7bwBQSGFgVYtlfO6zTLlkBH3PrT2Rsr3vyZN6atDw==" />
+        <description>
+Moomi Media Pro 1.3.2 build 9
+
+- Sửa lỗi cuộn Release notes và nội dung popup bị cột phía dưới bắt mất thao tác cuộn.
+- Nén ảnh tích hợp trong cửa sổ chính; nằm ngay dưới Tải từ cloud.
+- Logo và icon app dùng mascot Moomi mới; tối ưu ảnh để giảm dung lượng app. Chữ MEDIA PRO ngang bằng moomi.
+- Nút chọn sáng/tối/theo thiết bị, cách khớp tên và bộ lọc lớn, dễ bấm hơn; hiệu ứng kính nhẹ.
+- Loại file hiển thị hai cột; ẩn thanh cuộn, giữ cuộn chuột và trackpad.
+- Menu thông tin gọn và tự đóng khi bấm ngoài.
+- Bấm icon cập nhật để tự kiểm tra và xem kết quả trong một bảng duy nhất. Khi có bản mới, bảng hiển thị Release notes từ GitHub; nội dung dài cuộn riêng và nút hành động luôn nhìn thấy.
+- Popup dùng nền rõ ràng; tăng khoảng đệm bảng bản quyền, sửa con trỏ nút Đóng và khóa tương tác lớp dưới.
+
+Yêu cầu: macOS 13 trở lên; Universal cho Mac chip M và Intel.
+
+Lưu ý chuyển sang nguồn cập nhật mới:
+Người dùng 1.3.1 có thể cập nhật trong ứng dụng. Người dùng các bản trước 1.3.1 cần tải và cài thủ công bản này một lần. Sau đó, các bản tiếp theo được kiểm tra và cập nhật trong ứng dụng. Cách cài: thoát hẳn Moomi bằng Command + Q, giải nén ZIP, rồi chép Moomi Media Pro.app vào Applications để thay bản cũ. Giữ nguyên thư mục ảnh gốc và dữ liệu bản quyền.
+
+        </description>
+        </item>
+    <item>
             <title>1.3.1</title>
             <pubDate>Tue, 27 Oct 2026 16:28:17 +0700</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v8/Moomi_Media_Pro_v8.zip" length="5370887" type="application/octet-stream" sparkle:edSignature="mqvVq7qf4uUOiHnaUrh7kWK1lhlTF8DVPXo4vBbzQoexne4EoDMmp2eI/OdXIwjrfwVHJIYfLp3EYn5a49WxAw=="/>
-        <description><![CDATA[
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v8/Moomi_Media_Pro_v8.zip" length="5370887" type="application/octet-stream" sparkle:edSignature="mqvVq7qf4uUOiHnaUrh7kWK1lhlTF8DVPXo4vBbzQoexne4EoDMmp2eI/OdXIwjrfwVHJIYfLp3EYn5a49WxAw==" />
+        <description>
 Moomi Media Pro 1.3.1 build 8
 
 - Nén ảnh tích hợp trong cửa sổ chính; nằm ngay dưới Tải từ cloud.
@@ -25,7 +51,7 @@ Yêu cầu: macOS 13 trở lên; Universal cho Mac chip M và Intel.
 Lưu ý chuyển sang nguồn cập nhật mới:
 Người dùng các bản trước 1.3.1 cần tải và cài thủ công bản này một lần. Sau đó, các bản tiếp theo được kiểm tra và cập nhật trong ứng dụng. Cách cài: thoát hẳn Moomi bằng Command + Q, giải nén ZIP, rồi chép Moomi Media Pro.app vào Applications để thay bản cũ. Giữ nguyên thư mục ảnh gốc và dữ liệu bản quyền.
 
-        ]]></description>
+        </description>
         </item>
     </channel>
 </rss>
