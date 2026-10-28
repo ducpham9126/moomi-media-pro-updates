@@ -4,34 +4,22 @@
         <title>Moomi Media Pro</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Wed, 28 Oct 2026 06:47:43 +0700</pubDate>
-            <sparkle:version>15</sparkle:version>
+            <pubDate>Wed, 28 Oct 2026 14:59:39 +0700</pubDate>
+            <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v1.0.1/Moomi_Media_Pro_v1.0.1_build15.zip" length="6208660" type="application/octet-stream" sparkle:edSignature="veFAm01r3/Z66lNYm4wzZtwzRuGlIaoQSgVmpwXJYrRBuQAjpAWf6W9ywfAGbBPhu9E4RwTAFmgPHh+5IGmQBA==" />
-            <description>Moomi Media Pro 1.0.1 — build 15
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v1.0.1/Moomi_Media_Pro_v1.0.1_build16.zip" length="6255600" type="application/octet-stream" sparkle:edSignature="Ga1+blvX7xGwPpPiVkO6Ac7f7ksmVDXkIoaVp2NWwjUwAs8InniPCZ5sctPdvbpXdqZ5/rZ9/68rnG9d9IXNBg==" />
+            <description>Moomi Media Pro 1.0.1 — build 16
 
-Bản cài hiện tại: Moomi_Media_Pro_v1.0.1_build15.zip
+• Bổ sung tự khôi phục nội dung Album Drive, Lịch nội bộ và Moomi Lucky khi tiến trình hiển thị bị gián đoạn.
+• Kiểm tra nội dung cục bộ khi quay lại app; màn hình khỏe mạnh không tải lại và vẫn giữ form đang sửa.
+• Giữ dữ liệu theo lần xác nhận gần nhất khi kiểm tra tài khoản gặp lỗi mạng tạm thời; vẫn thu hồi quyền khi máy chủ xác nhận hết phiên.
+• Giới hạn số lần khôi phục để tránh vòng lặp. Nếu sự cố lặp lại, hiển thị một nút Mở lại trong app.
+• Dừng yêu cầu Studio khi app ở nền; tiếp tục dùng cache và chính sách làm mới theo từng chức năng.
+• Rà soát bố cục sáng/tối, form Album Drive, hàng nút, menu, điều hướng lịch, xử lý file và cloud.
 
-Thay đổi trong build 15:
-- Đưa Quản lý xuống thanh điều hướng dưới của Lịch nội bộ.
-- Đặt Thêm lịch ở giữa; menu Quản lý mở lên trên và nằm gọn trong app.
-- Căn hai biểu tượng phía trên theo mép phải vùng nội dung.
-
-Các tính năng của phiên bản 1.0.1:
-
-- Thêm Album Drive trong menu Studio: tạo/sửa album từ thư mục Google Drive bằng giao diện riêng của app.
-- Thẻ album hiển thị đủ số ảnh/thư mục, khách đã chọn, ảnh đã chọn, ghi chú và trạng thái hoàn thành.
-- Giữ các tùy chọn mật khẩu, quyền tải ảnh/RAW/video, giới hạn chọn, ảnh bìa, bố cục và phân trang.
-- Tích hợp Lịch nội bộ và Moomi Lucky; đăng nhập bằng tài khoản Moomi và hiển thị chức năng theo quyền xem/chỉnh sửa.
-- Giao diện Studio được đóng gói trong app; chỉ trao đổi dữ liệu với plugin, không nhúng trang quản trị WordPress.
-- Tối ưu cache theo tài khoản, yêu cầu có điều kiện và tái sử dụng dữ liệu; danh sách Album không gọi Google Drive để dựng từng trang.
-- Đồng bộ kích thước ô nhập/ô chọn, hàng nút, menu tài khoản, popup và giới hạn lớp blur theo góc bo; bổ sung Hướng dẫn Studio.
-- Giữ các công cụ lọc file, phân loại, giải nén ZIP, tải từ cloud và nén ảnh.
-
+Giữ các tính năng Studio, Album Drive, lọc file, phân loại, giải nén ZIP, tải cloud và nén ảnh của 1.0.1.
 Yêu cầu macOS 13 trở lên. Universal cho Apple Silicon và Intel. App ký ad-hoc, chưa notarize.
-Menu Studio cần đăng nhập và có quyền tương ứng trên Moomi. Ảnh giữ trên Google Drive; plugin xử lý đồng bộ nền khi tạo/đổi nguồn hoặc yêu cầu đồng bộ.
-Các bản 1.0.0 dùng khóa cập nhật hiện tại có thể cập nhật qua app. Bản rất cũ dùng khóa ký trước đó cần cài thủ công một lần.
 </description>
         </item>
         <item>
