@@ -3,6 +3,29 @@
     <channel>
         <title>Moomi Media Pro</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Fri, 30 Oct 2026 12:13:07 +0700</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v1.0.2/Moomi_Media_Pro_v1.0.2_build18.zip" length="7983254" type="application/octet-stream" sparkle:edSignature="on1L0G5UwrA61dOyD0JlktUTJuh8gY7Q2fRYL4/GNBr7qkBhNg9BGEE2sGdDYieXCMUf0rVBHubiw+mMlxKpCQ==" />
+            <description>Moomi Media Pro 1.0.2 · build 18
+
+- Thêm Tài liệu mật trong Studio: thư viện theo danh mục Google Drive, giao diện riêng của app; mặc định thư mục tài liệu Moomi đã chia sẻ công khai.
+- Thư mục công khai xem được mà không cần đăng nhập Google. Tài liệu riêng tư cần tài khoản Google có quyền; tải lên cần cấp quyền thư mục và quyền chỉnh sửa trên Drive.
+- Bấm tài liệu để xem ở cột phải; bấm đúp mở lightbox. Xem ảnh, PDF, Word, Excel và phát video trực tiếp trong app. Tải xuống và sao chép liên kết ngay tại tệp/thư mục.
+- Tải tệp lên trực tiếp từ Mac đến Google Drive; truyền theo phần cho tệp lớn, tối đa ba tệp đồng thời. Giữ nguyên tệp đã có trên Drive.
+- Bản làm việc trên máy: biểu tượng đám mây cho biết đã/chưa tải tệp gốc; chọn nhiều bằng chế độ đánh dấu hoặc ⌘/⇧, lưu tạm rồi kéo sang ứng dụng khác để mở và làm việc.
+- Chọn nơi lưu bản làm việc trong Tài liệu hoặc ổ đĩa khác. Mặc định tự dọn bản chưa chỉnh sửa sau 7 ngày không dùng; có tùy chọn thời hạn, không tự dọn và dọn thủ công. Các bản đã chỉnh sửa được giữ lại; thay đổi trên máy không tự ghi ngược lên Drive.
+- Hiện dữ liệu đã lưu trước, kiểm tra thay đổi ở nền khi đang xem. Danh sách lớn dùng kết quả lọc/sắp xếp đã ghi nhớ; thumbnail có giới hạn bộ nhớ. Không truyền tài liệu qua hosting Moomi.
+- Sửa tài liệu che thanh nút xem trước, tối ưu cửa sổ nhỏ/lớn, tôn trọng quyền tải bị thu hồi và hỗ trợ tải tệp rỗng hợp lệ.
+
+Mục Studio vẫn yêu cầu đăng nhập tài khoản Moomi có quyền. Kết nối Google là tùy chọn; OAuth Drive riêng tư chưa được Google xác minh nên có thể hiện cảnh báo hoặc giới hạn người dùng của Google.
+
+macOS 13 trở lên · Universal cho Apple Silicon và Intel. App ký ad-hoc, chưa notarize. Các bản dùng nguồn cập nhật mới có thể nhận bản này qua nút cập nhật. Bản 1.0.00/1.0.02/1.0.03 cần cài thủ công một lần để chuyển khóa ký.
+</description>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Wed, 28 Oct 2026 14:59:39 +0700</pubDate>
             <sparkle:version>16</sparkle:version>
