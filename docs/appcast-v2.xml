@@ -3,6 +3,27 @@
     <channel>
         <title>Moomi Media Pro</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Sat, 31 Oct 2026 00:27:02 +0700</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v1.0.3/Moomi_Media_Pro_v1.0.3_build19.zip" length="8015446" type="application/octet-stream" sparkle:edSignature="Kfc/QVq0ddtv3lk2fgtyz9JAUYU4RcMYXP3E9e/llYBjzSmu51KJssIH/eFdjtOPUWUbOa7zDVBv77vuVZ0WCg==" />
+            <description>Moomi Media Pro 1.0.3 · build 19
+
+- Kết quả lọc ảnh, quét thử và hoàn tác có nhân vật Moomi cùng các thẻ chỉ số rõ ràng, màu sắc nhẹ và số liệu nổi bật.
+- Thu gọn các bảng hoàn tất lọc ảnh, quét thử, hoàn tác, thông tin và lỗi. Dùng chung chiều rộng, header, viền và nút với bảng Cập nhật Moomi.
+- Thông báo ngắn tự co theo nội dung; nội dung dài cuộn trong bảng, không kéo bảng tràn cửa sổ.
+- Mỗi thông báo thuần xác nhận chỉ còn một nút Đóng trên header. Giữ nguyên các lựa chọn, nút hành động và trạng thái đang xử lý.
+- Bảng chọn danh sách AI tự co khi ít gợi ý; giới hạn theo cửa sổ khi nhiều gợi ý và luôn giữ các nút thao tác.
+- Đồng bộ giới hạn kích thước của các bảng native khi cửa sổ hẹp. Giữ vùng xem trước ảnh, video, tài liệu và các form cần nhiều nội dung.
+
+Giữ các tính năng lọc file, phân loại, ZIP, cloud, nén ảnh, Studio, Album Drive và Tài liệu mật của 1.0.2. Không thay đổi dữ liệu hoặc quyền tài khoản.
+
+macOS 13 trở lên · Universal cho Apple Silicon và Intel. App ký ad-hoc, chưa notarize. OAuth Drive riêng tư vẫn chịu giới hạn/xác minh của Google; thư mục công khai không cần đăng nhập Google.
+</description>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Fri, 30 Oct 2026 12:13:07 +0700</pubDate>
             <sparkle:version>18</sparkle:version>
