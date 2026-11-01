@@ -3,6 +3,27 @@
     <channel>
         <title>Moomi Media Pro</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Sun, 01 Nov 2026 20:04:54 +0700</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v1.0.4/Moomi_Media_Pro_v1.0.4_build20.zip" length="8212033" type="application/octet-stream" sparkle:edSignature="MwSwgzgRFyL5zsC+YnZUYRI0bNQWHvK7wTYGCNE8fqfVrt0RVaB2KZ8Lkv9AZSM967YaKi60/lLtZeW1X5WwAg==" />
+            <description>Moomi Media Pro 1.0.4 · build 20
+
+- Kết nối Google Drive một lần để xem và quản lý tài liệu theo quyền của tài khoản. Kéo thả tệp vào thư mục đang mở để tải trực tiếp lên Drive; không mở lại bước chọn thư mục trên trình duyệt sau mỗi lần tải.
+- Phiên Google cũ chỉ có quyền đọc cần chấp thuận quyền chỉnh sửa một lần. Phiên và quyền đã cấp được giữ trong Keychain, tự làm mới khi cần.
+- Chuột phải tại tệp hoặc thư mục để chuyển vào Thùng rác Drive; hỗ trợ nhiều tệp đã chọn và xác nhận gọn ngay trong app.
+- Kiểm tra quyền mới từ Google trước khi tải lên hoặc xóa. Giữ các mục chưa hoàn tất khi có lỗi; không xóa vĩnh viễn và không xóa bản làm việc trên máy.
+- Tải nhiều tệp với tối đa ba luồng, chia phần cho tệp lớn và tiếp tục theo vị trí Google đã nhận. Gửi trực tiếp Mac ↔ Google Drive, không qua hosting Moomi.
+- Đồng bộ danh sách ngay sau thao tác; giữ đúng thư mục đích khi chuyển sang xem mục khác, chặn thao tác dùng nhầm tài khoản sau khi đăng xuất.
+
+Các tài liệu công khai vẫn xem được không cần kết nối Google. Cấp quyền Google không tự cấp thêm quyền sở hữu hay chỉnh sửa đối với tệp của người khác. Thay đổi bản làm việc trên Mac không tự ghi ngược lên Drive.
+
+macOS 13 trở lên · Universal Apple Silicon và Intel. App ký ad-hoc, chưa notarize. Google có thể yêu cầu xác minh ứng dụng hoặc hạn chế quyền tùy tài khoản và tổ chức.
+</description>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Sat, 31 Oct 2026 00:27:02 +0700</pubDate>
             <sparkle:version>19</sparkle:version>
