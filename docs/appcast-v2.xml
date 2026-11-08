@@ -3,6 +3,26 @@
     <channel>
         <title>Moomi Media Pro</title>
         <item>
+            <title>1.1.5</title>
+            <pubDate>Sun, 08 Nov 2026 12:29:44 +0700</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v1.1.5/Moomi_Media_Pro_v1.1.5_build29.zip" length="9978421" type="application/octet-stream" sparkle:edSignature="pOFwiL3GkFgj9VtBour2vkJDOHZmVGTPDI9FU1lx0Q8VAQTvWDGGtUcc/tN9mDrNKfZusdukjIFpMn+COPBoAw==" />
+            <description>Moomi Media Pro 1.1.5 · build 29
+
+- Sửa nén ảnh theo từng đợt: sau khi lưu xong, kéo ảnh/thư mục mới vào sẽ không tải kèm ảnh đã lưu của đợt trước.
+- Giữ kết quả chưa lưu khi hủy/lỗi lưu; lưu thư mục ghi nhận riêng từng ảnh. Xuất CSV không được tính là đã lưu ảnh.
+- Hiển thị rõ số ảnh đã lưu, đợt hiện tại và cách bắt đầu đợt mới; cho phép nén lại cùng thư mục.
+- Bảng kết quả lọc file ưu tiên số tệp vừa sao chép, giải thích rõ tệp không khớp và chỉ hiện “Giữ nguyên tại đích” khi cần.
+- Bao gồm Moomi Drive trong Finder và các cải tiến hàng đợi, bộ nhớ đệm, truyền tệp trực tiếp Mac ↔ Google Drive từ các bản dựng gần đây. Không truyền tài liệu qua hosting Moomi.
+
+Moomi Drive trong Finder cần giữ Moomi chạy; thao tác copy hoàn tất khi Google xác nhận dữ liệu. Bản này chưa hỗ trợ ghi offline đầy đủ như File Provider.
+
+macOS 13 trở lên · Universal Apple Silicon và Intel. App ký ad-hoc, chưa notarize.
+</description>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Sun, 01 Nov 2026 20:04:54 +0700</pubDate>
             <sparkle:version>20</sparkle:version>
