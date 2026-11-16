@@ -3,6 +3,26 @@
     <channel>
         <title>Moomi Media Pro</title>
         <item>
+            <title>1.1.10</title>
+            <pubDate>Mon, 16 Nov 2026 17:04:03 +0000</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/ducpham9126/moomi-media-pro-updates/releases/tag/v1.1.10</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ducpham9126/moomi-media-pro-updates/releases/download/v1.1.10/Moomi_Media_Pro_v1.1.10_build34.zip" length="10278743" type="application/octet-stream" sparkle:edSignature="yyQMw6TAXRr+ZZBb5YW1tBfIGkBdBI1e7vwK8sQJ9tMXNDChf9UigcLiriCtHRHd7/lizrN88zHrSl8moeAMBw==" />
+            <description><![CDATA[Moomi Media Pro 1.1.10 · build 34
+
+- Cải thiện lọc theo mã/tên khi dán danh sách có tên nhiều dấu chấm, số dài, Unicode, đường dẫn và ký tự định dạng ẩn.
+- Tách rõ số mã/tên khớp và số tệp đã sao chép hoặc tải về. Ví dụ: 20 mã/tên có thể khớp hơn 20 tệp khi cùng tên có nhiều định dạng.
+- Hiển thị mã/tên chưa tìm thấy trong nguồn đã chọn, đồng thời phân biệt với mã/tên có tệp khớp nhưng thuộc loại file chưa chọn.
+- Sửa luồng đọc danh sách từ ảnh bằng AI/OCR để giữ đúng tên có đuôi lặp, tránh cắt thêm phần tên hoặc thêm trùng.
+
+Lưu ý: App lọc theo tên trong nguồn và loại file đã chọn. Nếu JPG và RAW của cùng một ảnh có tên khác nhau, cần dùng đúng tên RAW; app không tự đối chiếu nội dung ảnh để suy ra tên tương ứng.
+
+macOS 13 trở lên · Universal cho Apple Silicon và Intel. App ký ad-hoc, chưa notarize.
+]]></description>
+        </item>
+        <item>
             <title>1.1.9</title>
             <pubDate>Sun, 08 Nov 2026 12:26:47 +0000</pubDate>
             <sparkle:version>33</sparkle:version>
